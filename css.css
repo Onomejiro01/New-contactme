@@ -1,0 +1,31 @@
+h1{
+    background: 7px; background-color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: black;
+    font-size: 25px;
+    text-align: center;
+}
+
+.box-1{
+    font-family: 'Times New Roman', Times, serif; color: black;
+    font-size: 14px;
+}
+
+.box-2{
+    font-family: Arial, Helvetica, sans-serif; color: black;
+    font-size: 16px;
+    text-align: center;
+}
+
+body{
+    background-color: rgb(240, 138, 240);
+}
+
+h2{
+    background: 7px; background-color: black;
+    font-family: Arial, Helvetica, sans-serif; font-size: 44; color: white;
+}
+
+h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: black;
+    font-size: 12px;
+}
